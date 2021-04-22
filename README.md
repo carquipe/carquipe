@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @carquipe
+- 👀 I’m interested in Engineering Management and Backend Development (JAVA, C#)
+- 📫 You can reach me by sending and email to cquinzaperez@gmail.com
