@@ -18,8 +18,8 @@
 ### :man_technologist: About Me :
 I am a BackEnd Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles
+- :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
+- :zap: In my free time, I solve problems on Codewars and read tech articles
 - 👀 I’m interested in Engineering Management and Backend Development (JAVA, C#)
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Contact-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-quinz%C3%A1-p%C3%A9rez-550a446a/)
 
