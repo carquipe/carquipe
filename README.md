@@ -48,4 +48,5 @@ I am a BackEnd Software Engineer <img src="https://media.giphy.com/media/WUlplcM
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=carquipe&theme=dark&background=000000)](https://git.io/streak-stats)
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
 ![Codewars](https://github.r2v.ch/codewars?user=carquipe&stroke=%23BB432C&theme=nightowl)
