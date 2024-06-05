@@ -19,7 +19,7 @@
 I am a BackEnd Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
 
 - :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
-- :zap: In my free time, I solve problems on Codewars and read tech articles
+- :zap: In my free time, I read tech articles
 - 👀 I’m interested in Engineering Management and Backend Development (JAVA, C#)
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Contact-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-quinz%C3%A1-p%C3%A9rez-550a446a/)
 
@@ -48,5 +48,3 @@ I am a BackEnd Software Engineer <img src="https://media.giphy.com/media/WUlplcM
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=carquipe&theme=dark&background=000000)](https://git.io/streak-stats)
-![Leetcode Stats](https://leetcard.jacoblin.cool/carquipe)
-![Codewars](https://github.r2v.ch/codewars?user=carquipe&stroke=%23BB432C&theme=nightowl)
